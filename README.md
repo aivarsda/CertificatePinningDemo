@@ -1,7 +1,7 @@
 CertificatePinning
 ==================
 
-This application is a demonstration of the Open Source CertificatePinning library project. The library allows you to pin the server certificates by using the HttpsURLConnection. For more information visit the GitHub project by clicking the link below.
+This application is a demonstration of the Open Source CertificatePinning library project. The library allows you to pin the server certificates by using the HttpsURLConnection.
 
 How To Use
 --------------
